@@ -2,6 +2,9 @@
 
 Jogo desenvolvido na Unity3D. Baseado no Super Mario
 
+# IMAGEM
+![jogo](https://github.com/BluurProgrammer/Flappy-Yoshi-Android/blob/master/FOTOS%20DO%20JOGO/game3.png?raw=true)
+
 # Plataformas disponíveis
   PC
   Android
